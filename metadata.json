@@ -1,0 +1,6 @@
+{
+  "name": "Prof. Henrique França | Hidroginástica & Aquafitness",
+  "description": "Portal oficial do Prof. Henrique França para link da bio do Instagram com cursos, mentorias e acervo prático para professores de hidroginástica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
